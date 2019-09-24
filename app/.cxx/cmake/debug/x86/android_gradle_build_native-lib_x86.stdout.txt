@@ -1,3 +1,18 @@
 ninja: Entering directory `E:\dev\work\app\Tong\app\.cxx\cmake\debug\x86'
-[1/2] Building CXX object CMakeFiles/native-lib.dir/main/cpp/native-lib.cpp.o
-[2/2] Linking CXX shared library E:\dev\work\app\Tong\app\build\intermediates\cmake\debug\obj\x86\libnative-lib.so
+[1/17] Building CXX object CMakeFiles/native-lib.dir/callbacks/AbstractCallback.cpp.o
+[2/17] Building CXX object CMakeFiles/native-lib.dir/callbacks/BaseCallbackInt.cpp.o
+[3/17] Building CXX object CMakeFiles/native-lib.dir/task/JNIThreadPool.cpp.o
+[4/17] Building CXX object CMakeFiles/native-lib.dir/callbacks/BaseCallbackObjectArray.cpp.o
+[5/17] Building CXX object CMakeFiles/native-lib.dir/callbacks/BaseCallback.cpp.o
+[6/17] Building CXX object CMakeFiles/native-lib.dir/callbacks/BaseCallbackObject.cpp.o
+[7/17] Building CXX object CMakeFiles/native-lib.dir/callbacks/TeamCallback.cpp.o
+[8/17] Building C object CMakeFiles/native-lib.dir/task/job.c.o
+[9/17] Building CXX object CMakeFiles/native-lib.dir/sdkout/JNIOjbectAccessor.cpp.o
+[10/17] Building CXX object CMakeFiles/native-lib.dir/main/cpp/WlListener.cpp.o
+[11/17] Building CXX object CMakeFiles/native-lib.dir/sdkout/UserInfo.cpp.o
+[12/17] Building CXX object CMakeFiles/native-lib.dir/task/Task.cpp.o
+[13/17] Building CXX object CMakeFiles/native-lib.dir/testexample2/testcpool.cpp.o
+[14/17] Building CXX object CMakeFiles/native-lib.dir/sdkout/androidSdkOut.cpp.o
+[15/17] Building CXX object CMakeFiles/native-lib.dir/main/cpp/native-lib.cpp.o
+[16/17] Building CXX object CMakeFiles/native-lib.dir/testexample2/testcpp_pool.cpp.o
+[17/17] Linking CXX shared library E:\dev\work\app\Tong\app\build\intermediates\cmake\debug\obj\x86\libnative-lib.so

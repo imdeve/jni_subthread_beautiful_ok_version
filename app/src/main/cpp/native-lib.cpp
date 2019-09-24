@@ -69,7 +69,7 @@ Java_com_wenwp_tong_JNIThread_testInit(JNIEnv *env, jobject thiz) {
        //test_c_taskpool_init();
       // test_c_taskpool_init();
       ///  test_cpp_init();
-     AndroidSdkCli::getInstance().initRequestWorkerNum(1);
+     AndroidSdkCli::getInstance().initRequestWorkerNum(2);
      AndroidSdkCli::getInstance().initJNIEnv(jvm);
      AndroidSdkCli::getInstance().start();
 
@@ -110,6 +110,7 @@ Java_com_wenwp_tong_JNIThread_pushJavaCallback(JNIEnv *env, jobject thiz, jobjec
     if (res==0)
     {
         TeamCallback * task = new TeamCallback();
+
         greq=env->NewGlobalRef(req);
         task->adapterJavaReponseCallback(greq);
         task->setState(CallBackStatus_SUCCESS);
