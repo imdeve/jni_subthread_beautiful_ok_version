@@ -1,0 +1,97 @@
+[
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\callbacks\\AbstractCallback.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\AbstractCallback.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\AbstractCallback.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\callbacks\\BaseCallback.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\BaseCallback.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\BaseCallback.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\callbacks\\BaseCallbackInt.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\BaseCallbackInt.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\BaseCallbackInt.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\callbacks\\BaseCallbackObject.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\BaseCallbackObject.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\BaseCallbackObject.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\callbacks\\BaseCallbackObjectArray.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\BaseCallbackObjectArray.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\BaseCallbackObjectArray.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\callbacks\\TeamCallback.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\TeamCallback.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\callbacks\\TeamCallback.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\task\\JNIThreadPool.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\task\\JNIThreadPool.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\task\\JNIThreadPool.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\task\\Task.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\task\\Task.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\task\\Task.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\task\\job.c.o   -c E:\\dev\\work\\app\\Tong\\app\\src\\task\\job.c",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\task\\job.c"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\sdkout\\JNIOjbectAccessor.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\sdkout\\JNIOjbectAccessor.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\sdkout\\JNIOjbectAccessor.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\sdkout\\UserInfo.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\sdkout\\UserInfo.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\sdkout\\UserInfo.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\sdkout\\androidSdkOut.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\sdkout\\androidSdkOut.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\sdkout\\androidSdkOut.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\testexample2\\testcpool.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\testexample2\\testcpool.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\testexample2\\testcpool.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\testexample2\\testcpp_pool.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\testexample2\\testcpp_pool.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\testexample2\\testcpp_pool.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\main\\cpp\\WlListener.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\main\\cpp\\WlListener.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\main\\cpp\\WlListener.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/Tong/app/.cxx/cmake/release/x86_64",
+  "command": "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devprogram/androidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/dev/work/app/Tong/app/src/./callbacks -IE:/dev/work/app/Tong/app/src/./sdkout -IE:/dev/work/app/Tong/app/src/./task  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\main\\cpp\\native-lib.cpp.o -c E:\\dev\\work\\app\\Tong\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "E:\\dev\\work\\app\\Tong\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

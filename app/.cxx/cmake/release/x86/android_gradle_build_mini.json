@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "E:\\dev\\work\\app\\Tong\\app\\src\\CMakeLists.txt",
+    "D:\\devprogram\\androidSDK\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\devprogram\\androidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\dev\\work\\app\\Tong\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "D:\\devprogram\\androidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\dev\\work\\app\\Tong\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "D:\\devprogram\\androidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\dev\\work\\app\\Tong\\app\\.cxx\\cmake\\release\\x86\" native-lib",
+      "abi": "x86",
+      "output": "E:\\dev\\work\\app\\Tong\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-lib.so"
+    }
+  }
+}

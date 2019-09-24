@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/testInitBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="testInit"
+        android:text="测试初始化系统" />
+
+    <Button
+        android:id="@+id/testJobBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="testcpool"
+        android:text="测试cjobs" />
+
+    <Button
+        android:id="@+id/testTaskBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="testCppPool"
+        android:text="测试cppjobs" />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="addCallback"
+        android:text="添加kernel回调"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="jniStartCallBack"
+        android:text="启动回调系统" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="pushJavaCallback"
+        android:text="Java端塞入回调" />
+
+</LinearLayout>
