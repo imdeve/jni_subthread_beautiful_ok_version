@@ -125,8 +125,7 @@ Java_com_wenwp_tong_JNIThread_pushJavaCallback(JNIEnv *env, jobject thiz, jobjec
 //        test_c_addjob(spoutTask(task));
         AndroidSdkCli::getInstance().sendRequestCallback(task);
     }
-
-
+    
 
 
 }
